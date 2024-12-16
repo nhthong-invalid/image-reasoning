@@ -1,1 +1,7 @@
-ollama
+streamlit # For UI & Deployment
+ollama # Basic engine for the chatbot
+langchain
+langhchain-ollama
+langchain-community
+chainlit
+pydantic==2.10.1
